@@ -9,13 +9,7 @@ header {
     
      
 }
-.bg-image{
-    background-image: url(image/Picsart_23-01-01_11-22-25-824.jpg);
-   height: 100%;
-    filter: blur(8px);
-    background-position: center;
-    background-size: auto;
-}
+
 
 footer {
     background-color: #333;
